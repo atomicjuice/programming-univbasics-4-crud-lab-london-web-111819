@@ -27,7 +27,7 @@ array.delete_at(2)
 end
 
 def retrieve_first_element_from_array(array)
-
+array.shift
 end
 
 def retrieve_last_element_from_array(array)
